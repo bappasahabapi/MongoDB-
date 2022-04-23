@@ -1,4 +1,4 @@
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@BappaSaha](https://bappa-saha.web.app) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [BappaSaha](https://bappa-saha.web.app) for technical updates.
 
 1.  ### one time:
 
